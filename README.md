@@ -14,7 +14,7 @@
 ### Projects
 
 - [WiwiHo 的競程筆記](https://cp.wiwiho.me/)  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wiwiho&repo=cpnote-source)](https://github.com/wiwiho/cp-note-source)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wiwiho&repo=cpnote-source)](https://github.com/wiwiho/cpnote-source)
   
 ### Stats
 
