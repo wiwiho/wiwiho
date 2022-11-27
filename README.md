@@ -1,8 +1,9 @@
 ### About me
 
 - 💻 Competitive programmer
+- 🥇 IOI 2022 gold medalist
 - 🥈 IOI 2021 silver medalist
-- ✏️ HSNU student
+- ✏️ The Affiliated Senior High School of NTNU → National Taiwan Univeristy
 - 🌐 My blog: [WiwiHo 的廢文專區](https://www.wiwiho.me/)
 - ⌨️ Languages: C++, Kotlin, Python, Java
 
